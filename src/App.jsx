@@ -73,7 +73,7 @@ export default function App() {
             >
               <TextField
                 name="name"
-                placeholder="Expense Name"
+                placeholder="Expense Name!"
                 label="Expense Name"
                 labelHidden
                 variation="quiet"
